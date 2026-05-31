@@ -31,6 +31,14 @@ Your tireless digital workforce. Zak handles the repetitive, rule-based work tha
 
 ---
 
+## 🛡️ Community & Security
+
+We believe in open standards, standardized engineering practices, and rigorous security. 
+- Want to contribute to our open-source infrastructure tools? Please read our [**Contributing Guidelines**](https://github.com/kezense/.github/blob/master/CONTRIBUTING.md).
+- Discovered a vulnerability? Please adhere to our [**Security Policy**](https://github.com/kezense/.github/blob/master/SECURITY.md) for responsible disclosure.
+
+---
+
 ### 🌐 Connect With Us
 
 Ready to put AI to work? Tell us about the manual work slowing your team down. We'll show you what's possible.
